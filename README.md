@@ -1,4 +1,4 @@
-Aplikasi berbasis GUI untuk monitoring penyewaan mobil menggunakan bahasa JAVA dilengkapi dengan fitur struk dan
+Aplikasi berbasis GUI untuk monitoring penyewaan mobil menggunakan bahasa JAVA dilengkapi dengan fitur struk
  
 langkah-langkah
 1.Gunakan IDE NetBeans untuk mengubah kode program dan menjalankan proggram yang berupa GUI
